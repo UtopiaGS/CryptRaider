@@ -72,3 +72,35 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.slo
+*.lo
+*.o
+*.obj
+*.gch
+*.pch
+*.so
+*.dylib
+*.dll
+*.mod
+*.zip
+*.lai
+*.la
+*.a
+*.lib
+*.exe
+*.out
+*.app
+*.ipa
+*.xcodeproj
+*.xcworkspace
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+SourceArt/**/*.png
+SourceArt/**/*.tga
+CryptRaider/Binaries
+CryptRaider/Saved
+CryptRaider/Intermediate
